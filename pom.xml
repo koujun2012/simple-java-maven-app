@@ -54,8 +54,6 @@
             <goals>
               <goal>enforce</goal>
             </goals>
-            <configuration>
-            </configuration>
           </execution>
         </executions>
       </plugin>
